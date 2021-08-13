@@ -1,1 +1,2 @@
 # React-typescript
+ hello my dear georgeous friends on the internet . In this repository I have uploaded the React with Typescript stuff . Because Type script is really really amazing it will reduce your errors in the development or in production because it is strongly typed language and your shouold declare the variables with what type of variables.  so flee free to press the dot on your keyboard to see all the code in vs code 
